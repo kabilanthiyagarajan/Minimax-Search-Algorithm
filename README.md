@@ -265,6 +265,7 @@ if __name__ == "__main__":
 ```
 <hr>
 <h2>Output</h2>
+
 ![image](https://github.com/user-attachments/assets/3cdfce73-47ee-4948-9999-db78d317ae57)
 
 
